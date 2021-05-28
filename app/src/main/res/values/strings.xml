@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserProfileAssignment</string>
+
+    <string-array name="Name">
+        <item> Nicholas </item>
+        <item> Software</item>
+        <item> Senior</item>
+    </string-array>
+
+</resources>
